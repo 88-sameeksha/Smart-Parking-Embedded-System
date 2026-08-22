@@ -1,0 +1,14 @@
+Open your Wokwi project and make sure you have your:
+
+Arduino UNO
+4 × HC-SR04
+LCD
+LEDs
+buzzer
+servo
+
+connected according to your code.
+
+Click Start Simulation.
+
+Wokwi supports Arduino Uno and the HC-SR04 directly.
